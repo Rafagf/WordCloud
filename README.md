@@ -1,7 +1,7 @@
 WordCloud
 =========
 
-Source code of a work cloud in Perl.
+Source code of a work cloud in Perl scripting language.
 
 This word cloud is set to retrieve feeds from the spanish website http://elpais.com/ (for example there is a simple html to select a feed of this website)
 , but easily the word cloud functionality could be separated from this example and used in a generic way. If anyone is interested in how to do this just let me know!
