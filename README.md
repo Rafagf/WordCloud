@@ -8,13 +8,13 @@ This word cloud is set to retrieve feeds from the spanish website http://elpais.
 
 It creates a html webpage containing a word cloud from a given feed. It is also possible to select one or several words of the word cloud and to obtain a list of news related to those words, ordered by the tf-idf (Term frequency – Inverse document frequency).  
 
-## Author
+## Autor
 
 Rafael García Fernández
 
-* _University of Granada (UGR)_
-* http://github.com/rafagf
+* GitHub: http://github.com/rafagf
 * Email: rafagarfer@gmail.com
+* Linkedin: http://uk.linkedin.com/in/rafaelgarciafernandez
 
 ## Copyright and license
 
